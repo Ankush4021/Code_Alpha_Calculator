@@ -1,0 +1,1 @@
+A simple and intuitive calculator application built to perform basic arithmetic operations. This project is designed to help users quickly calculate sums, differences, products, and quotients with a clean and user-friendly interface.
